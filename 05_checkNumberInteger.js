@@ -1,6 +1,6 @@
 //  Check Whether the given number is an integer or not
 
-let num = "sd";
+let num = 987;
 
 let isInteger = Number.isInteger(num)
 
